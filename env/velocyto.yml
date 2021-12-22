@@ -1,0 +1,9 @@
+name: velocyto
+dependencies:
+- python=3.7
+- bioconda::scanpy
+- pandas
+- bioconda::velocyto.py=0.17.17
+- bioconda::scvelo=0.2.4
+# - conda-forge::matplotlib=3.5.1
+

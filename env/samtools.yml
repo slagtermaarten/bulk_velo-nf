@@ -1,0 +1,5 @@
+name: samtools
+dependencies:
+- python=3.7
+- bioconda::samtools=1.9
+- bioconda::simplesam=0.1.4.0
